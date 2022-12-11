@@ -1,0 +1,7 @@
+.pasaporencima::before {
+content: "Pasa por encima"
+}
+.pasaporencima:hover {
+    color: white;
+    background-color: green;
+}
